@@ -51,5 +51,5 @@ class InvalidCountryException extends Exception {
 }
 ```
 # OUTPUT: 
-[!output of 7a](7a.png)
+![output of 7a](7a.png)
 
